@@ -13,4 +13,3 @@ libevent_a_SOURCES =	\
 	nc_epoll.c	\
 	nc_kqueue.c	\
 	nc_evport.c
-
